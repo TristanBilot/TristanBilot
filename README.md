@@ -2,6 +2,7 @@
 
 ### About me
 - 🎓 Ph.D. student at [Université Paris-Saclay](https://en.wikipedia.org/wiki/Paris-Saclay_University)
+- ✈️ Will be working in [Systopia's team](https://systopia.cs.ubc.ca/) at [UBC](https://www.ubc.ca/) from April to June
 - 🧪 Exploring the application of [GNNs to cyberattack detection](https://scholar.google.fr/citations?hl=en&user=ijVNAGYAAAAJ)
 - 🍎 Contributing to [mlx-graphs](https://github.com/mlx-graphs/mlx-graphs) and [MLX](https://github.com/ml-explore/mlx)
 - 🤗 I enjoy 💻, ☀️ and 🌴
