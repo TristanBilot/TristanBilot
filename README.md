@@ -10,4 +10,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlx-graphs&repo=mlx-graphs)](https://github.com/mlx-graphs/mlx-graphs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ml-explore&repo=mlx)](https://github.com/ml-explore/mlx)
 
-![Tristan Bilot's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanbilot&show_icons=true&show=reviews,prs_merged)
+<!--![Tristan Bilot's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanbilot&show_icons=true&show=reviews,prs_merged)-->
