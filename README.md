@@ -1,5 +1,5 @@
 
-### <samp>&gt;&gt;&gt; Hi there, I'm Tristan! </samp>
+<!-- ### <samp>&gt;&gt;&gt; Hi there, I'm Tristan! </samp> -->
 
 ### About me
 - 🎓 Ph.D. student at [Université Paris-Saclay](https://en.wikipedia.org/wiki/Paris-Saclay_University)
