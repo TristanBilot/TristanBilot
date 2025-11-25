@@ -2,10 +2,8 @@
 <!-- ### <samp>&gt;&gt;&gt; Hi there, I'm Tristan! </samp> -->
 
 ### About me
-- 🎓 Ph.D. student at [Université Paris-Saclay](https://en.wikipedia.org/wiki/Paris-Saclay_University) ([publications](https://scholar.google.fr/citations?hl=en&user=ijVNAGYAAAAJ))
-- ✈️ Visiting at [UBC](https://systopia.cs.ubc.ca/)
-- 🧪 Creator of [mlx-graphs](https://github.com/mlx-graphs/mlx-graphs) and [PIDSMaker](https://github.com/ubc-provenance/PIDSMaker)
-- 📈 Benchmarking [Apple chips againt CUDA GPUs](https://github.com/TristanBilot/mlx-benchmark)
+- 🧪 I do research on ML and security
+- 💻 I built various frameworks such as [mlx-graphs](https://github.com/mlx-graphs/mlx-graphs), [mlx-benchmark](https://github.com/TristanBilot/mlx-benchmark) and [PIDSMaker](https://github.com/ubc-provenance/PIDSMaker)
 - 🤗 I enjoy 💻, ☀️ and 🌴
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlx-graphs&repo=mlx-graphs)](https://github.com/mlx-graphs/mlx-graphs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ml-explore&repo=mlx)](https://github.com/ml-explore/mlx)-->
