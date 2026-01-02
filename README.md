@@ -2,7 +2,7 @@
 <!-- ### <samp>&gt;&gt;&gt; Hi there, I'm Tristan! </samp> -->
 
 ### About me
-- 🧪 I do research on ML and security
+- 🧪 I do research in ML and security
 - 💻 I built various frameworks such as [mlx-graphs](https://github.com/mlx-graphs/mlx-graphs), [mlx-benchmark](https://github.com/TristanBilot/mlx-benchmark) and [PIDSMaker](https://github.com/ubc-provenance/PIDSMaker)
 - 🤗 I enjoy 💻, ☀️ and 🌴
 
